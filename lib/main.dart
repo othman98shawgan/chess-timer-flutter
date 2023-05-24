@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'resources/colors.dart';
 import 'ui/home.dart';
 
 void main() {
@@ -17,9 +18,11 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Chess Timer',
       theme: ThemeData(
+        toggleableActiveColor: darkThemeSwatch,
+        primarySwatch: darkThemeSwatch,
         brightness: Brightness.dark,
       ),
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }

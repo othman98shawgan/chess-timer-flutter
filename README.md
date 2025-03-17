@@ -23,7 +23,7 @@ To use the Chess Timer, simply download and install it on your mobile device fro
 <a href='https://play.google.com/store/apps/details?id=com.app.chesstimer'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='258.5' height='100'/></a>
 
 ## 📸 Screenshots  
-(Add screenshots here)  
+<img src="/assets/1.jpg" width="180"> <img src="/assets/2.jpg" width="180"> <img src="/assets/3.jpg" width="180"> <img src="/assets/4.jpg" width="180"> <img src="/assets/5.jpg" width="180"> <img src="/assets/6.jpg" width="180">
 
 ## Contributing
 
